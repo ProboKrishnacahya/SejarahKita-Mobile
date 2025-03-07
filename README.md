@@ -27,7 +27,7 @@ Kelompok 11:
 ## 🛠️ Technologies Used  
 - **Platform:** Android  
 - **Programming Language:** Java  
-- **Frameworks & Tools:** Android Studio, Firebase (if applicable), SQLite/MySQL (if applicable)  
+- **Frameworks & Tools:** Android Studio 
 
 ---
 
