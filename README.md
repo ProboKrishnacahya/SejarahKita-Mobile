@@ -2,7 +2,7 @@
 
 **Educational Game App for Learning Indonesian History**  
 
-SejarahKita is an **Web and Mobile-based educational game** designed to help **high school students** explore Indonesia's struggle during **1945-1965**. This app supports the **Sustainable Development Goals (SDGs) on Quality Education** by improving students' understanding of **Sejarah Indonesia**, preparing them for exams, and fostering appreciation for Indonesia’s independence heroes.  
+SejarahKita is a **Web and Mobile-based educational game** designed to help **high school students** explore Indonesia's struggle during **1945-1965**. This app supports the **Sustainable Development Goals (SDGs) on Quality Education** by improving students' understanding of **Sejarah Indonesia**, preparing them for exams, and fostering appreciation for Indonesia’s independence heroes.  
 
 This project was developed as part of the **Assessment of Learning Performance - Web and Mobile Development Course.  
 
