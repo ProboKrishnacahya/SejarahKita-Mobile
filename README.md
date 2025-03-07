@@ -1,39 +1,34 @@
-# SejarahKita Mobile Application
+# SejarahKita Mobile Application  
 
-<samp>Assesment of Learning Performance Mobile Application Development 2021 - 2022 Gasal (Semester 3) Informatika Universitas Ciputra Surabaya.</samp>
+**Educational Game App for Learning Indonesian History**  
 
-Oleh Kelompok 11:
-<ul>    
-    <li>
-        <a href="http://bit.ly/vanness-zhong-a">Vanness Zhong Anthony</a> (0706012010010) <a href="https://github.com/vannessza">@vannessza</a>
-    </li>
-    <li>
-        <a href="http://bit.ly/nathanaelabel">Nathanael Abel Arianto</a> (0706012010029) <a href="https://github.com/nathanaelabel">@nathanaelabel</a>
-    </li>
-    <li>
-        <a href="https://s.id/cahyaa">Probo Krishnacahya</a> (0706012010039) <a href="https://github.com/cahyaa02">@cahyaa02</a>
-    </li>
-    <li>
-        <a href="https://www.macefs.com/">Michael Chandra</a> (0706012010052) <a href="https://github.com/michaellchandra/">@michaellchandra</a>
-    </li>
-</ul>
+SejarahKita-Mobile is an **Android-based educational game** designed to help **high school students** explore Indonesia's struggle during **1945-1965**. This app supports the **Sustainable Development Goals (SDGs) on Quality Education** by improving students' understanding of **Sejarah Indonesia**, preparing them for exams, and fostering appreciation for Indonesia’s independence heroes.  
 
-<p><strong>SejarahKita-Mobile</strong> adalah Aplikasi Mobile berbasis OS Android tentang Game Edukasi berupa Anagram dengan topik mata pelajaran Sejarah Indonesia Kelas 12 yang berfokus pada bab-bab berikut:</p>
-<ul>
-    <li>
-        <p>Perjuangan Bangsa Indonesia dalam Menghadapi Ancaman Disintegrasi dari Ideologi, Kepentingan, dan Sistem Pemerintahan.</p>
-    </li>
-    <li>
-        <p>Peran dan Nilai-nilai Perjuangan Tokoh Nasional serta Tokoh Daerah dalam Mempertahankan Keutuhan Negara dan Bangsa Indonesia pada Masa 1945–1965.</p>
-    </li>
-</ul>
+This project was developed as part of the **Assessment of Learning Performance - Web and Mobile Development Course.  
 
-<p>Terdapat 2 mode permainan, yaitu</p>
-<ol>
-    <li>Casual</li>
-    <li>Ranked (memiliki 2 pilihan level yang setiap perolehan Ranked Point nya diakumulasi pada masing-masing Leaderboard):</li>
-    <ol>
-        <li>Easy</li>
-        <li>Hard</li>
-    </ol>
-</ol>
+## 👨‍💻 Developed By:  
+Kelompok 11:  
+- [Michael Chandra](https://www.macefs.com/)  
+- [Nathanael Abel Arianto](http://bit.ly/nathanaelabel)  
+- [Probo Krishnacahya](https://s.id/cahyaa)  
+
+---
+
+## 🎮 Key Features  
+- **Anagram Word Game:** Interactive gameplay with **Casual Mode** and **Ranked Mode**.  
+  - **Ranked Mode** has two difficulty levels:  
+    - 🟢 **Easy**  
+    - 🔴 **Hard**  
+- **Leaderboard System:** Tracks player scores and fosters a sense of achievement among students.  
+- **Optimized for Android:** Built for a seamless and engaging mobile gaming experience.  
+
+---
+
+## 🛠️ Technologies Used  
+- **Platform:** Android  
+- **Programming Language:** Java  
+- **Frameworks & Tools:** Android Studio, Firebase (if applicable), SQLite/MySQL (if applicable)  
+
+---
+
+📌 **Note:** This project was created for academic purposes and is not actively maintained. 
